@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AI\\PIDA_DCP_V01\\Pida_dcp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB60F7-0567-4F55-978E-596DA1C90B26}|Pida_dcp.pyproj|D:\\AI\\PIDA_DCP_V01\\Pida_dcp\\core\\policy.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CAFB60F7-0567-4F55-978E-596DA1C90B26}|Pida_dcp.pyproj|solutionrelative:core\\policy.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB60F7-0567-4F55-978E-596DA1C90B26}|Pida_dcp.pyproj|D:\\AI\\PIDA_DCP_V01\\Pida_dcp\\app\\cli.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CAFB60F7-0567-4F55-978E-596DA1C90B26}|Pida_dcp.pyproj|solutionrelative:app\\cli.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB60F7-0567-4F55-978E-596DA1C90B26}|Pida_dcp.pyproj|D:\\AI\\PIDA_DCP_V01\\Pida_dcp\\core\\state.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CAFB60F7-0567-4F55-978E-596DA1C90B26}|Pida_dcp.pyproj|solutionrelative:core\\state.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB60F7-0567-4F55-978E-596DA1C90B26}|Pida_dcp.pyproj|D:\\AI\\PIDA_DCP_V01\\Pida_dcp\\core\\log.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CAFB60F7-0567-4F55-978E-596DA1C90B26}|Pida_dcp.pyproj|solutionrelative:core\\log.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB60F7-0567-4F55-978E-596DA1C90B26}|Pida_dcp.pyproj|D:\\AI\\PIDA_DCP_V01\\Pida_dcp\\core\\memory.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CAFB60F7-0567-4F55-978E-596DA1C90B26}|Pida_dcp.pyproj|solutionrelative:core\\memory.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB60F7-0567-4F55-978E-596DA1C90B26}|Pida_dcp.pyproj|D:\\AI\\PIDA_DCP_V01\\Pida_dcp\\core\\constraints.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CAFB60F7-0567-4F55-978E-596DA1C90B26}|Pida_dcp.pyproj|solutionrelative:core\\constraints.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB60F7-0567-4F55-978E-596DA1C90B26}|Pida_dcp.pyproj|D:\\AI\\PIDA_DCP_V01\\Pida_dcp\\app\\_init_.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CAFB60F7-0567-4F55-978E-596DA1C90B26}|Pida_dcp.pyproj|solutionrelative:app\\_init_.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFB60F7-0567-4F55-978E-596DA1C90B26}|Pida_dcp.pyproj|D:\\AI\\PIDA_DCP_V01\\Pida_dcp\\core\\_init_.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CAFB60F7-0567-4F55-978E-596DA1C90B26}|Pida_dcp.pyproj|solutionrelative:core\\_init_.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_init_.py",
+              "DocumentMoniker": "D:\\AI\\PIDA_DCP_V01\\Pida_dcp\\core\\_init_.py",
+              "RelativeDocumentMoniker": "core\\_init_.py",
+              "ToolTip": "D:\\AI\\PIDA_DCP_V01\\Pida_dcp\\core\\_init_.py",
+              "RelativeToolTip": "core\\_init_.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-27T02:05:23.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_init_.py",
+              "DocumentMoniker": "D:\\AI\\PIDA_DCP_V01\\Pida_dcp\\app\\_init_.py",
+              "RelativeDocumentMoniker": "app\\_init_.py",
+              "ToolTip": "D:\\AI\\PIDA_DCP_V01\\Pida_dcp\\app\\_init_.py",
+              "RelativeToolTip": "app\\_init_.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-27T02:05:08.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "policy.py",
+              "DocumentMoniker": "D:\\AI\\PIDA_DCP_V01\\Pida_dcp\\core\\policy.py",
+              "RelativeDocumentMoniker": "core\\policy.py",
+              "ToolTip": "D:\\AI\\PIDA_DCP_V01\\Pida_dcp\\core\\policy.py",
+              "RelativeToolTip": "core\\policy.py",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-27T02:01:23.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "constraints.py",
+              "DocumentMoniker": "D:\\AI\\PIDA_DCP_V01\\Pida_dcp\\core\\constraints.py",
+              "RelativeDocumentMoniker": "core\\constraints.py",
+              "ToolTip": "D:\\AI\\PIDA_DCP_V01\\Pida_dcp\\core\\constraints.py",
+              "RelativeToolTip": "core\\constraints.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-27T02:00:59.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "memory.py",
+              "DocumentMoniker": "D:\\AI\\PIDA_DCP_V01\\Pida_dcp\\core\\memory.py",
+              "RelativeDocumentMoniker": "core\\memory.py",
+              "ToolTip": "D:\\AI\\PIDA_DCP_V01\\Pida_dcp\\core\\memory.py",
+              "RelativeToolTip": "core\\memory.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-27T02:00:37.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "log.py",
+              "DocumentMoniker": "D:\\AI\\PIDA_DCP_V01\\Pida_dcp\\core\\log.py",
+              "RelativeDocumentMoniker": "core\\log.py",
+              "ToolTip": "D:\\AI\\PIDA_DCP_V01\\Pida_dcp\\core\\log.py",
+              "RelativeToolTip": "core\\log.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-27T02:00:10.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "state.py",
+              "DocumentMoniker": "D:\\AI\\PIDA_DCP_V01\\Pida_dcp\\core\\state.py",
+              "RelativeDocumentMoniker": "core\\state.py",
+              "ToolTip": "D:\\AI\\PIDA_DCP_V01\\Pida_dcp\\core\\state.py",
+              "RelativeToolTip": "core\\state.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-27T01:59:48.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cli.py",
+              "DocumentMoniker": "D:\\AI\\PIDA_DCP_V01\\Pida_dcp\\app\\cli.py",
+              "RelativeDocumentMoniker": "app\\cli.py",
+              "ToolTip": "D:\\AI\\PIDA_DCP_V01\\Pida_dcp\\app\\cli.py",
+              "RelativeToolTip": "app\\cli.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-27T01:59:09.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

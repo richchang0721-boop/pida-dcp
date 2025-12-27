@@ -1,0 +1,64 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>cafb60f7-0567-4f55-978e-596da1c90b26</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>Pida_dcp.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>Pida_dcp</Name>
+    <RootNamespace>Pida_dcp</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="app\cli.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="app\_init_.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\constraints.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\log.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\memory.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\policy.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\state.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\_init_.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Pida_dcp.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="app\" />
+    <Folder Include="core\" />
+    <Folder Include="data\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>
